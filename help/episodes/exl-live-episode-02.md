@@ -15,4 +15,4 @@ Join us for a discussion featuring three Adobe experts who’ve been instrum
 
 >[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
 
-To discuss this session, please visit the [discussion in the Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68).
+To discuss this session, please visit the [discussion in the Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.

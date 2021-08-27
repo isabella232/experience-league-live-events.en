@@ -9,3 +9,4 @@ user-guide-description: A list of Experience League Live Events
 + [Overview](overview.md)
 + Episodes {#episodes}
   + [Ep. 1: My Three Favorite Adobe Analytics Implementation Tips](episodes/exl-live-episode-01.md)
+  + [Ep. 2: Make Your Next Audience Segment Smarter than Ever](episodes/exl-live-episode-02.md)

@@ -1,13 +1,11 @@
 ---
-
 title: Experience League LIVE Events
 description: A collection of links to previous Experience League LIVE events
 type: Event
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-
+exl-id: 09bdf9e2-b4f7-44df-a2bd-b9ce1cba3927
 ---
-
 # Experience League LIVE
 
 ## Join us for the next episode !
@@ -86,4 +84,4 @@ Did you miss an episode of Experience League LIVE? We forgive you. Check out any
 
 >[!TIP]
 >
->For additional methods of learning, check out our free [courses](https://experienceleague.adobe.com/#dashboard/learning) as well as individual [tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html). 
+>For additional methods of learning, check out our free [courses](https://experienceleague.adobe.com/#dashboard/learning) as well as individual [tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html).

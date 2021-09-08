@@ -5,7 +5,7 @@ product: experience cloud
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-league-live-events.en
-index: no
+index: yes
 ---
 
 # Metadata for internal use

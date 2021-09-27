@@ -9,8 +9,8 @@ exl-id: 09bdf9e2-b4f7-44df-a2bd-b9ce1cba3927
 # Experience League LIVE
 
 ## Join us for the next episode !
+More info coming soon. Check back often!
 
-<a href="https://www.youtube.com/watch?v=bsU1lAv0xes"><img alt="clicking will direct you to the YouTube lobby for Experience League Live" src="assets/exl-live-ep3-yt.png" /></a>
 
 Experience League LIVE is a live streaming show produced by the Experience League team.  It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
@@ -19,21 +19,21 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   <td>
-      <img alt="Content Services" src="./assets/content.png" />
+      <img alt="Conversion Attribution" src="./assets/analytics.jpg" />
      <div>
-          <strong>Content Personalization</strong>
+          <strong>Conversion Attribution</strong>
      <div>
           <em>October 2021</em>
      </div>
      </div>
     <p>
-    <em>Learn from product experts about building experiences that adapt to customers in real time</em>
+    <em>Learn cool tips from Adobe Analytics experts about assigning attribution in custom reports</em>
     <p>
   </td>
   <td>
-      <img alt="Content Services" src="./assets/platform.png" />
+      <img alt="Content Services" src="./assets/content.png" />
      <div>
-          <strong>Content and Commerce</strong>
+          <strong>Content Personalization</strong>
      </div>
      <div>
           <em>November 2021</em>
@@ -64,7 +64,6 @@ Did you miss an episode of Experience League LIVE? We forgive you. Check out any
 
 <table>
 <tr>
-  
   <td>
     <a href="episodes/exl-live-episode-01.md">
       <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
@@ -80,8 +79,7 @@ Did you miss an episode of Experience League LIVE? We forgive you. Check out any
     <p>
   </td>
 </tr>
-<tr>
-  
+<tr> 
   <td>
     <a href="episodes/exl-live-episode-02.md">
       <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep2-afterimage.png" />
@@ -91,6 +89,22 @@ Did you miss an episode of Experience League LIVE? We forgive you. Check out any
      </div>
      <div>
           <em>August 26, 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
+</tr>
+<tr> 
+  <td>
+    <a href="episodes/exl-live-episode-03.md">
+      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep3-afterimage.png" />
+    </a>
+     <div>
+          <strong>Guests</strong> : <i>Alyssa Nahatis, Stephen Ford, Bruce Swann</i>
+     </div>
+     <div>
+          <em>September 22, 2021</em>
      </div>    
     <p>
     <em></em>

@@ -4,6 +4,7 @@ description: Just like it’s never too early to start your holiday shopping, it
 doc-type: live event
 thumbnail: 337219.jpg
 kt: 8581
+exl-id: f31c00e6-0981-4224-b4c5-1bab123e9587
 ---
 # Expert tips to make your holiday campaigns stand out
 

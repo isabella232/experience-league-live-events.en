@@ -10,8 +10,7 @@ exl-id: 09bdf9e2-b4f7-44df-a2bd-b9ce1cba3927
 
 ## Join us for the next episode !
 
-More info coming soon. Check back often!
-
+[![image](assets/exl-live-ep4-yt.png)](https://www.youtube.com/watch?v=NYsdbqL9Dx0)
 
 Experience League LIVE is a live streaming show produced by the Experience League team.  It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
@@ -28,7 +27,7 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
      </div>
      </div>
     <p>
-    <em>Learn cool tips from Adobe Analytics experts about assigning attribution in custom reports</em>
+    <em>Learn cool tips from Adobe Analytics experts about assigning attribution in custom reports. See link above.</em>
     <p>
   </td>
   <td>

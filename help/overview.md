@@ -10,7 +10,7 @@ exl-id: 09bdf9e2-b4f7-44df-a2bd-b9ce1cba3927
 
 ## Join us for the next episode !
 
-[![image](assets/exl-live-ep4-yt.png)](https://www.youtube.com/watch?v=NYsdbqL9Dx0)
+More info to come. Come back often!
 
 Experience League LIVE is a live streaming show produced by the Experience League team.  It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
@@ -105,6 +105,22 @@ Did you miss an episode of Experience League LIVE? We forgive you. Check out any
      </div>
      <div>
           <em>September 22, 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
+</tr>
+<tr> 
+  <td>
+    <a href="episodes/exl-live-episode-04.md">
+      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep4-thumbnail.jpg" />
+    </a>
+     <div>
+          <strong>Guests</strong> : <i>Jenn Kunz - 33 Sticks, Adam Klintworth - Adobe</i>
+     </div>
+     <div>
+          <em>October 21, 2021</em>
      </div>    
     <p>
     <em></em>

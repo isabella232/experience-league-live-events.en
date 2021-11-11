@@ -17,41 +17,25 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 ## Upcoming Experience League LIVE events!
 
 <table>
-<tr>
+<tr> 
   <td>
-      <img alt="Conversion Attribution" src="./assets/analytics.jpg" />
-     <div>
-          <strong>Conversion Attribution</strong>
-     <div>
-          <em>October 2021</em>
-     </div>
-     </div>
-    <p>
-    <em>Learn cool tips from Adobe Analytics experts about assigning attribution in custom reports. See link above.</em>
-    <p>
-  </td>
-  <td>
-      <img alt="Content Services" src="./assets/content.png" />
-     <div>
-          <strong>Content Personalization</strong>
+    <a href="https://www.youtube.com/watch?v=7-Lcw5PejhI">
+      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep5-yt.png" />
+    </a>
+    <div>
+          <strong>Go live faster than ever with quick site creation in Adobe Experience Manager</strong>
      </div>
      <div>
-          <em>November 2021</em>
+          <strong>Guests:</strong> <i>Shankari Panchapakesan, Gabriel Walt</i>
+     </div>
+    <div>
+          <strong>Hosted by</strong> <i>Danny Gordon</i>
+     </div>
+     <div>
+          <em>November 18, 2021 9am PDT</em>
      </div>    
     <p>
-    <em>Learn how to create and manage content at scale and build personalized commerce experiences</em>
-    <p>
-  </td>
-  <td>
-      <img alt="Content Services" src="./assets/journeys.png" />
-     <div>
-          <strong>Cross-Device Analytics</strong>
-     </div>
-     <div>
-          <em>December 2021</em>
-     </div>
-    <p>
-    <em>Learn how to transform your Analytics from a device-centric view to a person-centric view. As a result, analysts can understand user behavior that crosses browsers, devices, or apps.</em>
+    <em></em>
     <p>
   </td>
 </tr>
@@ -63,32 +47,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 Did you miss an episode of Experience League LIVE? We forgive you. Check out any of our past episodes! You can explore below or use the left navigation to choose an episode.
 
 <table>
-<tr>
-  <td>
-    <a href="episodes/exl-live-episode-01.md">
-      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
-    </a>
-     <div>
-          <strong>Guests</strong> : <i>Eric Matisoff and Dasha Fitzpatrick</i>
-     </div>
-     <div>
-          <em>July 29, 2021</em>
-     </div>    
-    <p>
-    <em></em>
-    <p>
-  </td>
-</tr>
 <tr> 
   <td>
-    <a href="episodes/exl-live-episode-02.md">
-      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep2-afterimage.png" />
+    <a href="episodes/exl-live-episode-04.md">
+      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep4-thumbnail.jpg" />
     </a>
      <div>
-          <strong>Guests</strong> : <i>Aaron Shields, Yaya Wang, and Andres Monroy</i>
+          <strong>Guests</strong> : <i>Jenn Kunz - 33 Sticks, Adam Klintworth - Adobe</i>
      </div>
      <div>
-          <em>August 26, 2021</em>
+          <em>October 21, 2021</em>
      </div>    
     <p>
     <em></em>
@@ -113,14 +81,30 @@ Did you miss an episode of Experience League LIVE? We forgive you. Check out any
 </tr>
 <tr> 
   <td>
-    <a href="episodes/exl-live-episode-04.md">
-      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep4-thumbnail.jpg" />
+    <a href="episodes/exl-live-episode-02.md">
+      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep2-afterimage.png" />
     </a>
      <div>
-          <strong>Guests</strong> : <i>Jenn Kunz - 33 Sticks, Adam Klintworth - Adobe</i>
+          <strong>Guests</strong> : <i>Aaron Shields, Yaya Wang, and Andres Monroy</i>
      </div>
      <div>
-          <em>October 21, 2021</em>
+          <em>August 26, 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="episodes/exl-live-episode-01.md">
+      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
+    </a>
+     <div>
+          <strong>Guests</strong> : <i>Eric Matisoff and Dasha Fitzpatrick</i>
+     </div>
+     <div>
+          <em>July 29, 2021</em>
      </div>    
     <p>
     <em></em>

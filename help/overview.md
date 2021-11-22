@@ -54,7 +54,7 @@ More info coming soon about December events!
     <p>
     <em>Learn cool tips from Adobe Customer Journey Analytics experts, who will show us how to widen the scope of our analytics across datasets.</em>
     <p>
-  </td>`
+  </td>
 </tr>
 </table>
 

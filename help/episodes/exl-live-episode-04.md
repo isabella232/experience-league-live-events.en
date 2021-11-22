@@ -4,7 +4,7 @@ description: Understanding your customer’s journey is everything. And reportin
 doc-type: live event
 thumbnail: 338108.jpg
 kt: 9255
-
+exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
 ---
 # Who clicked that? And then what did they do?
 

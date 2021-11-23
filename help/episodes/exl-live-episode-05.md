@@ -4,7 +4,7 @@ description: Adobe Experience Manager Sites includes several features to acceler
 doc-type: live event
 thumbnail: 338798.jpg
 kt: 9397
-
+exl-id: 2760b900-44b0-49bc-9d63-39a459c338f1
 ---
 # Go live faster than ever with quick site creation in Adobe Experience Manager
 

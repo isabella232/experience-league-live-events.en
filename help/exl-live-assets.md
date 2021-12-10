@@ -1,8 +1,8 @@
 ---
 title: Experience League LIVE Assets
 description: This page houses assets for Experience League LIVE
-role: User, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
-level: Beginner, Intermediate, Experienced
+role: User
+level: Beginner
 hide: yes
 hidefromtoc: yes
 

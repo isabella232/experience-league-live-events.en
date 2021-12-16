@@ -10,45 +10,17 @@ exl-id: 09bdf9e2-b4f7-44df-a2bd-b9ce1cba3927
 
 Experience League LIVE is a live streaming show produced by the Experience League team.  It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
-## Join us for the next episode!
-
-More info coming soon about December events!
-
 
 ## Upcoming Experience League LIVE events!
 
 <table>
 <tr>
   <td>
-      <img alt="Cross-Device Analytics" src="./assets/cda1.jpg" />
-     <div>
-          <strong>Cross-Device Analytics</strong>
-     </div>
-     <div>
-          <em>Dec 14, 2021</em>
-     </div>
-    <p>
-    <em>Learn how to transform your Analytics from a device-centric view to a person-centric view. As a result, analysts can understand user behavior that crosses browsers, devices, or apps.</em>
-    <p>
-  </td><td>
-      <img alt="Adobe App Builder" src="./assets/aem-app-builder-thumb.jpg" />
-     <div>
-          <strong>Extend AEM with Adobe App Builder</strong>
-     </div>
-     <div>
-          <em>Dec 16, 2021</em>
-     </div>    
-    <p>
-    <em>Developing microservices, integrating backend systems and automating workflows has never been so easy.</em>
-    <p>
-  </td>
-  
-  <td>
       <img alt="Conversion Attribution" src="./assets/cja-thumb.jpg" />
      <div>
           <strong>Customer Journey Analytics</strong>
      <div>
-          <em>January 2022</em>
+          <em>January 25, 2022</em>
      </div>
      </div>
     <p>
@@ -64,6 +36,22 @@ More info coming soon about December events!
 Did you miss an episode of Experience League LIVE? We forgive you. Check out any of our past episodes! You can explore below or use the left navigation to choose an episode.
 
 <table>
+<tr> 
+  <td>
+    <a href="episodes/exl-live-episode-06.md">
+      <img height=225 width=400 alt="Experience League LIVE" src="assets/exl-live-ep6-yt.jpeg" />
+    </a>
+     <div>
+          <strong>Guests</strong> : <i>Matt Freestone, Alex Ivana, Nils Engel</i>
+     </div>
+     <div>
+          <em>December 14, 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
+</tr>
 <tr> 
   <td>
     <a href="episodes/exl-live-episode-05.md">

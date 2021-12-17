@@ -4,6 +4,7 @@ description: Developing microservices, integrating backend systems and automatin
 doc-type: live event
 thumbnail: 339319.jpg
 kt: 9501
+exl-id: e8c3e768-125b-4595-bcfc-5495f6595c3a
 ---
 # Extend AEM with Adobe App Builder
 

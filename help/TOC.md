@@ -14,4 +14,5 @@ user-guide-description: A list of Experience League Live Events
   + [Ep. 4: Who clicked that? And then what did they do?](episodes/exl-live-episode-04.md)
   + [Ep. 5: Go live faster than ever, with quick site creation](episodes/exl-live-episode-05.md)
   + [Ep. 6: Measure people instead of devices](episodes/exl-live-episode-06.md)
+  + [Ep. 7: Extend AEM with Adobe App Builder](episodes/exl-live-episode-07.md)
 + [Experience League LIVE Assets](exl-live-assets.md)

@@ -12,3 +12,5 @@ exl-id: 36a6d36f-009d-46a2-8804-17345c3e10b1
 This page houses assets for Experience League LIVE
 
 ![Episode 6 Sidebar Image](assets/exl-live-ep6-sidebar.jpg)
+
+![Experience League Live Logo](assets/exl-live-logo.png)

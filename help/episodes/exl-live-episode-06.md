@@ -4,6 +4,7 @@ description: When users interact with your brand they do so in many ways and on 
 doc-type: live event
 thumbnail: 339318.jpg
 kt: 9500
+exl-id: d9be9acc-5a75-4ccb-8234-cccf9cd093be
 ---
 # Measure people instead of devices
 

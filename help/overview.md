@@ -16,7 +16,7 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   <td>
-      <img alt="Conversion Attribution" src="./assets/cja-thumb.jpg" />
+      <img height="230" width="400" alt="Conversion Attribution" src="./assets/cja-thumb.jpg" />
      <div>
           <strong>Customer Journey Analytics</strong>
      <div>
@@ -25,6 +25,18 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
      </div>
     <p>
     <em>Learn cool tips from Adobe Customer Journey Analytics experts, who will show us how to widen the scope of our analytics across datasets.</em>
+    <p>
+  </td>
+    <td>
+      <img height="230" width="400" alt="Reference demo add-on" src="./assets/reference-demo-thumb.jpg" />
+     <div>
+          <strong>AEM Reference Demos Add-On</strong>
+     <div>
+          <em>January 27, 2022</em>
+     </div>
+     </div>
+    <p>
+    <em>Learn all about the new Reference Demos for Adobe Experience Manager as a Cloud Service.</em>
     <p>
   </td>
 </tr>
@@ -36,6 +48,22 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 Did you miss an episode of Experience League LIVE? We forgive you. Check out any of our past episodes! You can explore below or use the left navigation to choose an episode.
 
 <table>
+<tr> 
+  <td>
+    <a href="episodes/exl-live-episode-07.md">
+      <img height=225 width=400 alt="Experience League LIVE ep7" src="assets/exl-live-ep7-yt.png" />
+    </a>
+     <div>
+          <strong>Guests</strong> : <i>Mark Sculc, Sarah Xu, Zoran Nikolovski</i>
+     </div>
+     <div>
+          <em>December 16, 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
+</tr>
 <tr> 
   <td>
     <a href="episodes/exl-live-episode-06.md">
